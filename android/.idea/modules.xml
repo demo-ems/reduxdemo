@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReduxProject.iml" filepath="$PROJECT_DIR$/.idea/modules/ReduxProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ReduxProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ReduxProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1732614558/ReduxProject.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1732614558/ReduxProject.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2074486054/ReduxProject.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-2074486054/ReduxProject.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-278721731/ReduxProject.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-278721731/ReduxProject.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/351781040/ReduxProject.react-native-image-crop-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/351781040/ReduxProject.react-native-image-crop-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/571261119/ReduxProject.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/571261119/ReduxProject.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-912242586/ReduxProject.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-912242586/ReduxProject.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/794939390/ReduxProject.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/794939390/ReduxProject.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1918377401/ReduxProject.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/1918377401/ReduxProject.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>
